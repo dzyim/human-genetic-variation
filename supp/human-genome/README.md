@@ -6,14 +6,18 @@
 
 ## The Human Genome Project
 
+- [Human Genome Project Timeline](https://www.genome.gov/human-genome-project/timeline)
 - [Human Genome Project Information Archive 1990–2003](https://web.ornl.gov/sci/techresources/Human_Genome/)
-- Publications: https://web.ornl.gov/sci/techresources/Human_Genome/project/timeline.shtml
+- [List of Publications](https://web.ornl.gov/sci/techresources/Human_Genome/project/timeline.shtml)
 - Lander ES, et al. Initial sequencing and analysis of the human genome. Nature. 2001;409(6822):860-921. doi:10.1038/35057062
 - Venter JC, et al. The sequence of the human genome. Science. 2001;291(5507):1304-1351. doi:10.1126/science.1058040
 
 ## T2T-CHM13
 
-- Papers: https://www.genome.gov/about-genomics/telomere-to-telomere
+- News & Papers: https://www.genome.gov/about-genomics/telomere-to-telomere
+- Data and materials: https://github.com/marbl/CHM13
+- String graph construction code: https://github.com/snurk/sg_sandbox
+- Nurk S, et al. The complete sequence of a human genome. Science. 2022;376(6588):44-53. doi:10.1126/science.abj6987
 
 ## Human Reference Genomes
 
